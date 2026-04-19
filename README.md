@@ -1,2 +1,2 @@
-# ML-Enhanced-16-Bit-ADC.
-A real-time hybrid noise filtration system for 16-bit ADC (ADS1115) combining Bi-Directional LSTM and digital filters. Implemented with Arduino Uno, it achieves ~85% noise reduction in sensor data. Includes a Streamlit dashboard for live visualization of raw vs AI-filtered signals.
+# ML-Enhanced-16-Bit-ADC for high sensor data aquisition.
+A real-time, hybrid noise filtration system for 16-bit ADCs (ADS1115) using Bi-Directional LSTMs and Traditional Digital Filters. This project demonstrates an 85% noise reduction in high-precision sensor data acquisition by integrating Deep Learning with embedded hardware (Arduino Uno). Features a live Streamlit dashboard for real-time visualization of Raw vs. AI-Filtered signals.
